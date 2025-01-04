@@ -30,7 +30,7 @@ Additionally, this project was prepared using **Overleaf**, a powerful and user-
 
 - **ITL_Project_Report.pdf**: The main project report.
 - **README.md**: This file, providing an overview of the repository.
-
+- **License**: The MIT License.
 ## License
 
 This project is shared under the **MIT License**. You are free to use, modify, and distribute the contents with proper attribution.
